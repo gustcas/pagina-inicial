@@ -42,7 +42,7 @@ const webProjects = [
     description:
       'Sistema de ventas e inventario para seguimiento de ordenes, trazabilidad comercial y control interno.',
     tags: ['ERP', 'Ventas', 'Gestion'],
-    url: 'https://salesordergp.onrender.com/#/',
+    url: 'https://push-order-fe.vercel.app/#/',
     accent: 'from-emerald-500 to-lime-400'
   }
 ];
